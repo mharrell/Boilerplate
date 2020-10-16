@@ -1,26 +1,20 @@
 # Boilerplate
 Boilerplate framework for front and back end test automation
 
+To set up:
+In home directory, run 'npm install'. Done!
 
-##Front!
+To run Selenium/WedbriverIO/Mocha front end tests:
+cd into the 'Front' directory.
+run 'wdio' to run sample tests. One test will fail.
 
-####To set up:
-cd into the Front directory and run 'npm install'
-
-####To run:
-In that same directory, run 'wdio' to run sample tests. One test will fail.
-
-####To see report:
+To see report for front end testing:
 Check out the 'Results' directory and see the file named 'wdio-ma-merged.json'
 
 
-##APIs!
+To run Jest/SuperTest API tests:
+cd into the 'API' directory.
+run 'jest' to run sample tests. One test will fail.
 
-####To set up:
-cd into the api directory and run 'npm install'
-
-####To run:
-In that same directory, run 'jest' to run sample tests. One test will fail.
-
-####To see report:
+To see report for api testing:
 Coming soon!
